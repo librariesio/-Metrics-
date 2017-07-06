@@ -1,4 +1,6 @@
-## Libraries.io's Curent Metrics
+# Data
+
+## Currently gathered
 
 | Entity |   Name   |      Type      |  Description (if not obvious) |
 |----------|----------|:-------------:|------|
@@ -46,7 +48,7 @@
 
 * names, descriptions and keywords are searched for words like deprecated or unmaintained. Libraries.io also farms for contributions of this data. 
 
-## Proposed Metrics
+## Proposed Data to Collect
 
 | Entity | Name | Description (if not obvious) | Source |
 |----------|----------|-------------|------|

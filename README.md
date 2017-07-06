@@ -1,4 +1,5 @@
 # Metrics
+
 Libraries.io's strategy is to gather and share data as widely as possible to create a stronger open source ecosystem. By collaborating openly on how best to question, measure and otherwise analyse projects we can ensure that Libraries.io is able to do this better tomorrow than it does today. 
 
 ## Goals

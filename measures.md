@@ -1,5 +1,4 @@
-# What is this?
-A scratchpad for a number of measures of software libraries focussing on areas that will guide users to make more informed decisions about whether to include a library within their own project. 
+#Measures 
 
 Measures here are in addition to those already gathered: https://docs.libraries.io/overview#sourcerank
 
