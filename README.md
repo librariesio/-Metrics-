@@ -6,10 +6,6 @@ This repo aims to gather a diverse group of organisations, institutions and indi
 * To signpost toward sources of data that will enable. 
 * To define a set of metrics that are missing from Libraries.io that are not provided by another service.
 
-## Examples of similar work
-* Linux Foundation's census project https://github.com/linuxfoundation/cii-best-practices-badge
-* IILab's Open Integrity Index https://github.com/openintegrity (focusses on end user applications rather than libraries)
-
 ## Process
 
 ### [Related work](https://github.com/librariesio/metrics/blob/master/signpost.md)
