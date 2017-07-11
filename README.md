@@ -24,7 +24,7 @@ Data can be 'harvested' (gathered automatically using APIs, data dumps, scraping
 
 Libraries.io currently focusses on harvesting metrics. It is preferable for a metric to be present in many sources rather than a single source so that we can make like-for-like comparisons across [supported package managers](http://libraries.io/compatibility). 
 
-### [Sources](https://github.com/librariesio/metrics/blob/master/signposts.md#sources)
+### [Sources](https://github.com/librariesio/metrics/blob/master/signpost.md#sources)
 Sources contain metrics. They may also contain measures themselves.  We think it is important not to rely on proprietary, third party services for measures. 
 
 Reproducibility is the key issue here. An inability to reproduce a measure from the source data (metrics) risks the ability to create a like for like comparison of two pieces of software and ties all users of the classifier to that service. This is [unacceptable](https://www.youtube.com/watch?v=07So_lJQyqw)(🔊).
