@@ -3,7 +3,7 @@ This repo aims to gather a diverse group of organisations, institutions and indi
 
 ## Goals
 * To define a set of useful direct and derivative measures for judging aspects of a project within a number of thematic areas (i.e. code quality, community, documentation).
-* To signpost toward sources of data that will enable. 
+* To signpost toward sources of data. 
 * To define a set of metrics that are missing from Libraries.io that are not provided by another service.
 
 ## Process
