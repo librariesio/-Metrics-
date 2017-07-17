@@ -11,7 +11,7 @@ Please contribute pull-requests if possible, otherwise [add an issue](https://gi
 * [Linux Foundation: Census Project](https://github.com/linuxfoundation/cii-best-practices-badge)
 * [Linux Foundation Community Health Analytics for OSS (CHAOSS)](https://wiki.linuxfoundation.org/oss-health-metrics/start)
 * [IILAB: Open Integrity Index](https://github.com/openintegrity)
-* [NUMFocus'Open Sour sustainability Programme](https://www.numfocus.org/programs/sustainability/)
+* [NUMFocus' Open Source sustainability Programme](https://www.numfocus.org/programs/sustainability/)
 
 ## Papers
 
