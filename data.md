@@ -68,7 +68,7 @@
 | Branch | created | | | 
 | Branch | last commit | SHA | | 
 | Branch | total commits | | | 
-| Version | Copyright holders | Array of users | copyright holders |
+| Version | Copyright holders |  copyright holders (Array of users) | |
 | Version | changelog | project changelog |  |
 | Version | changelog_updated | last update on changelog |  |
 | Version | cves | #CVEs disclosed for this version |  |
@@ -82,17 +82,17 @@
 | Version | languages | Breakdown of langs and %age breakdown | - |
 | Version | size | Byte size of version 
 | Version | diff_size | diff size to previous version | - |
-| Version | commit | SHA | release commit SHA/tag |
+| Version | commit | Release commit SHA/tag |  |
 | Issue | comments | An array of comments |  |
 | Contribution | Type | The type of contribution (issue, creating, labeling, assigning, commenting, reviewing, commiting,  donating, voting, PR) breaking types out, a la commit |  |
-| Commit | SHA | String | The SH string id of the commit | 
+| Commit | SHA | The SH string id of the commit |  | 
 | Commit | DiffSize | Lines/chars added/removed | 
 | Commit | Datetime | Datetime |
 | Commit | Author |  |  |
 | Commit | Committer |  |  |
 | Commit | Message |  |  |
 | Commit | ci_status | pass/fail/warn |  |
-| Commit | ci_status_message | Document | Log of the CI |
+| Commit | ci_status_message | Log of the CI |  |
 | Comment | id |   |  |
 | Comment | source | Source of comment (SE/Google Group/GH)  |  |
 | Comment | author | A user |  |
