@@ -14,6 +14,7 @@
 | Project | deprecated | Bool | Is the project marked as deprecated* |
 | Project | unmaintained | Bool | Is the project marked as unmaintained* |
 | Project | deleted | Bool | If every distribution is removed |
+| Project | latest stable release | Version | - | 
 | Project | latest release | Version | - | 
 | Repository | Host | String | The provider for the repo (Github, GitLab, BitBucket, Trac, Sourceforge, etc) |
 | Repository | Owner | User or Organisation | - |
@@ -27,11 +28,9 @@
 | Version | Licence | Array of licences | The SPDX-normalised licence or set of licences |
 | Version | ReadMe | Document | - | 
 | Version | Dependencies | Nested array of project versions | - |
-| Version | Dependents | Array of repositories | - |
+| Version | Dependent_repositories | Array of repositories | - |
+| Version | Dependent_projects | Array of projects | - |
 | Version | Commits | Array of commit | Actually called contribution in Libraries.io | 
-| Commit | SHA | String | The SH string id of the commit | 
-| Commit | Datetime | Datetime | - |
-| Commit | Contributor | Contributor | - | 
 | Issue | number | int | - |
 | Issue | title | String | - |
 | Issue | body | Document | The description of the issue |
@@ -58,25 +57,45 @@
 | Project | faq | url of faq |  |
 | Project | donate | url for donations |  |
 | Project | chat | url for project chat |  |
+| Project | forum | url for project forum |  |
 | Project | supporters | an array of supporters sponsoring the project in cash or kind |  |
-| Project | has_ci | does the project use a CI env. to automate its build/test/deployment process? |  |
+| Project | ci_location | url for the ci environment  |  |
+| Project | distributors | array of users/organisations |  |
+| Project | deployers | array of users/organisations |  |
 | Repository | branches | array of braches |  | 
-| Branch | id | | | 
+| Repository | subfolder | the location within the repo for this package |  |
+| Branch | name | | | 
 | Branch | created | | | 
-| Branch | last commit | | | 
+| Branch | last commit | SHA | | 
 | Branch | total commits | | | 
+| Version | Copyright holders | Array of users | copyright holders |
 | Version | changelog | project changelog |  |
 | Version | changelog_updated | last update on changelog |  |
-| Version | cves | number of CVEs disclosed for this version |  |
+| Version | cves | #CVEs disclosed for this version |  |
 | Version | code_quality | external measure of code quality (i.e. code climate) |  |  
+| Version | test_coverage | external measure of test coverage (i.e. code climate) |  |  
 | Version | downloads | # downloads | 
 | Version | download_reqests | # download requests (i.e. direct dependencies) |  |
 | Version | build_errors | # reported build errors |  |
 | Version | test_status | pass/fail (you'd hope always pass) |  |
 | Version | citation | link to citation file |  |
+| Version | languages | Breakdown of langs and %age breakdown | - |
+| Version | size | Byte size of version 
+| Version | diff_size | diff size to previous version | - |
+| Version | commit | SHA | release commit SHA/tag |
 | Issue | comments | An array of comments |  |
-| Comment | id |   |
-| Comment | author | A user |
-| Comment | created |  |
-| Comment | updated |  |
+| Contribution | Type | The type of contribution (issue, creating, labeling, assigning, commenting, reviewing, commiting,  donating, voting, PR) breaking types out, a la commit |  |
+| Commit | SHA | String | The SH string id of the commit | 
+| Commit | DiffSize | Lines/chars added/removed | 
+| Commit | Datetime | Datetime |
+| Commit | Author |  |  |
+| Commit | Committer |  |  |
+| Commit | Message |  |  |
+| Commit | ci_status | pass/fail/warn |  |
+| Commit | ci_status_message | Document | Log of the CI |
+| Comment | id |   |  |
+| Comment | source | Source of comment (SE/Google Group/GH)  |  |
+| Comment | author | A user |  |
+| Comment | created |  |  |
+| Comment | updated |  |  |
 | Contributor | organisation |  The organisational affiliation of the contributor |  |
