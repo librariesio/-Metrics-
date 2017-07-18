@@ -51,7 +51,6 @@ Measures here are in addition to those already gathered: https://docs.libraries.
 * av. time to comment on an issue
 * av. time to close an issue
 * av. time to close a pr
-* av. time to fix a CVE
 * av. time to roll updates to dependencies into master
 * av. time to answer a SE question
 
