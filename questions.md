@@ -24,6 +24,7 @@
 * Are these documents up to date?
 
 ## Security
+* Does this package actually contain the sourcecode in the repo?
 * Does the project have any open CVEs listed against it directly?
 * Does the project have any open CVEs listed in its dependency tree?
 * How quickly are CVEs patched?
@@ -41,14 +42,13 @@
 * Has the project been *removed* from its package manager?
 * Does that package manager have adequate measures to protect users of that distribution?
 * Does the distibution include a link to source? 
-Is that source validated as the correct source for this project?
-* Does the project use semantic versioning?
-* Is there a regualr release cycle?
-* Has that cycle become longer or shorter?
+* Is that source validated as the correct source for this project?
+* Does the project use a predictable versioning scheme?
+* Is there a predictable release cycle, has it become longer or shorter?
 * Has there been a release in the last 3/6/12 months?
 * Is there a changelog? Is it updated? 
 * What size is the diff of releases relative to the size of the project? i.e. how consistent is the project in its evolution
-* Are releases freuently breaking or non-breaking changes?
+* Are releases frequently breaking or non-breaking changes?
 
 ## Community
 
@@ -59,7 +59,6 @@ Is that source validated as the correct source for this project?
 * What kind of redundancy is built into the community's structure? 
 * How many contributors are there with a commit bit?
 * How many contributors are permitted to distribute a new patch or release?
-* Is the contirbutor 
 
 ### Contributions
 * How many contributors are actively working on the project versus the number of contributors over time?
@@ -80,7 +79,7 @@ Is that source validated as the correct source for this project?
 * Is deployment, testing, documentation, reviewing etc. automated?
 
 ### Academic
-* Is there a citations file? 
+* How do I cite this project in my research?
 
 ### Ecosystem
 * Which projects would be at risk if certain factors changed? (orgs removing support, maintianers leaving, project yanked)
