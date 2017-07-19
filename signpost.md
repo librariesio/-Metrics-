@@ -23,5 +23,6 @@ Please contribute pull-requests if possible, otherwise [add an issue](https://gi
 
 * [Libraries.io](https://libraries.io/data)
 * [Homebrew: anayltics data](https://brew.sh/analytics/)
+* [Ohloh (now BlackDuck Open Hub)](https://github.com/blackducksoftware/ohloh_api#ohloh-api-documentation)
 
 ## Other
