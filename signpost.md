@@ -12,9 +12,12 @@ Please contribute pull-requests if possible, otherwise [add an issue](https://gi
 * [Linux Foundation Community Health Analytics for OSS (CHAOSS)](https://wiki.linuxfoundation.org/oss-health-metrics/metrics)
 * [IILAB: Open Integrity Index](https://github.com/openintegrity)
 * [NUMFocus' Open Source sustainability Programme](https://www.numfocus.org/programs/sustainability/)
-* [apache Foundation's Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
+* [Apache Foundation's Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
 
-## Papers
+## Papers/Articles
+* [OS Watch: Evaluations Project Sustianability](http://oss-watch.ac.uk/resources/evaluatingsustainability)
+* [OS Watch: Software Sustainability Maturity Model](http://oss-watch.ac.uk/resources/evaluatingsustainability)
+
 
 ## Sources
 
