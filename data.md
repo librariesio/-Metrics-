@@ -55,7 +55,7 @@ The data below should support [measures](/measures.md) which in turn provide ans
 |----------|----------|-------------|------|
 | Project | deployers | The set of people able to deploy a new version of a project |  |
 | Project | distributors | The set of people able to distribute new versions of a project |  |
-| Project | documentaiton | url of documentation |  |
+| Project | documentation | url of documentation |  |
 | Project | faq | url of faq |  |
 | Project | donate | url for donations |  |
 | Project | chat | url for project chat |  |
