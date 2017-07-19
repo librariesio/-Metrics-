@@ -9,9 +9,10 @@ Please contribute pull-requests if possible, otherwise [add an issue](https://gi
 ## Projects
 
 * [Linux Foundation: Census Project](https://github.com/linuxfoundation/cii-best-practices-badge)
-* [Linux Foundation Community Health Analytics for OSS (CHAOSS)](https://wiki.linuxfoundation.org/oss-health-metrics/start)
+* [Linux Foundation Community Health Analytics for OSS (CHAOSS)](https://wiki.linuxfoundation.org/oss-health-metrics/metrics)
 * [IILAB: Open Integrity Index](https://github.com/openintegrity)
 * [NUMFocus' Open Source sustainability Programme](https://www.numfocus.org/programs/sustainability/)
+* [apache Foundation's Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
 
 ## Papers
 
