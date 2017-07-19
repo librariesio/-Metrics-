@@ -1,5 +1,7 @@
 # Data
 
+The data below should support [measures](/measures.md) which in turn provide answers to [questions](/questions.md).
+
 ## Currently gathered
 
 | Entity |   Name   |      Type      |  Description (if not obvious) |
