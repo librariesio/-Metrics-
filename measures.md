@@ -29,7 +29,7 @@ Measures here are in addition to those already gathered: https://docs.libraries.
 ## Documentation
 
 * documentation activity (#commits to codebase vs. #commits to documentation files)
-* documentaiton coverage
+* documentation coverage
 * has a topic on StackExchange
 * #questions on StackExchange
 * av. time to answer a question on SE
@@ -39,7 +39,7 @@ Measures here are in addition to those already gathered: https://docs.libraries.
 * has a contributors file
 * has a pr and issue template
 * activity: rate of activity on project (against rate of ecosystem)
-* activity distirbution (issues, labels, comments, prs, commits), since last release
+* activity distribution (issues, labels, comments, prs, commits), since last release
 * #publishers
 * #committers
 * distribution of commits (nth percentile by nth people)
